@@ -1,0 +1,23 @@
+{
+  "request_id": "20260317_a7473a8e-27fa-4e95-9482-0d14275a78cc",
+  "transcript": "समय। समय का जो रखता ध्यान, जग में होता उसका मान। समय को जो खोता है, बाद में रोता रहता है। समय कभी नहीं रुकता है, चलता है, बस चलता है। सफल यहां वही रहता है, समय के साथ जो चलता है।",
+  "timestamps": null,
+  "diarized_transcript": {
+    "entries": [
+      {
+        "transcript": "समय। समय का जो रखता ध्यान, जग में होता उसका मान। समय को जो खोता है, बाद में रोता रहता है। समय कभी नहीं रुकता है, चलता है, बस चलता है।",
+        "start_time_seconds": 0.77,
+        "end_time_seconds": 20.43,
+        "speaker_id": "0"
+      },
+      {
+        "transcript": "सफल यहां वही रहता है, समय के साथ जो चलता है।",
+        "start_time_seconds": 20.87,
+        "end_time_seconds": 26.73,
+        "speaker_id": "0"
+      }
+    ]
+  },
+  "language_code": "hi-IN",
+  "language_probability": 0.999
+}
